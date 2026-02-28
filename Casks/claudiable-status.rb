@@ -1,6 +1,6 @@
 cask "claudiable-status" do
-  version "1.2.0"
-  sha256 "8ca08a203c95248ba01c0ea5666ae6578c92fcf0a6844f77c85a831a20455aff"
+  version "1.3.0"
+  sha256 "295bd712ba67f62990c998b171238a15c9ea52d51b3585321e66b405742cb0ca"
 
   url "https://github.com/pdong15dth/claudiable_status/releases/download/v#{version}/claudiable_status.zip"
   name "Claudible Status"
