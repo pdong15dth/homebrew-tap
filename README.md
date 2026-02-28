@@ -1,12 +1,12 @@
 # Homebrew Tap
 
-Homebrew tap for [claudiable_status](https://github.com/pdong15dth/claudiable_status) — a macOS menu bar app for monitoring Claudible dashboard.
+Homebrew tap for [Claudible Status](https://github.com/pdong15dth/claudiable_status) — a macOS menu bar app for monitoring Claudible dashboard.
 
 ## Install
 
 ```bash
 brew tap pdong15dth/tap
-brew install --cask claudiable-status
+brew install --cask --no-quarantine claudiable-status
 ```
 
 ## Update
